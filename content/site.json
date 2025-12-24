@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "title": "AZento Home | Interiorismo, exteriorismo y piezas a medida en Madrid",
+    "description": "Estudio especializado en interiores, jardines, terrazas y fabricaciones a medida. Diseñamos, construimos e iluminamos espacios que invitan a quedarse.",
+    "keywords": ["interiorismo", "azento home", "jardines", "terrazas", "pérgolas", "madera tecnológica", "celosías", "reformas exteriores", "Madrid"]
+  },
+  "branding": {
+    "name": "AZento Home",
+    "tagline": "Interiores y exteriores a medida",
+    "location": "Madrid y alrededores",
+    "email": "info@azentohome.com",
+    "phone": "+34 600 000 000",
+    "instagram": "https://www.instagram.com/azentohome",
+    "whatsappLink": "https://wa.me/34600000000",
+    "ctaLabel": "Pedir presupuesto"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Servicios", "href": "/servicios" },
+    { "label": "Proyectos", "href": "/proyectos" },
+    { "label": "Sobre", "href": "/sobre" },
+    { "label": "Contacto", "href": "/contacto" }
+  ],
+  "hero": {
+    "title": "Diseño de interiores y exteriores a medida",
+    "subtitle": "Creamos espacios que conectan interior y exterior con calidez, madera y luz. Desde la idea hasta la entrega llave en mano.",
+    "primaryCta": { "label": "Pedir presupuesto", "href": "/contacto" },
+    "secondaryCta": { "label": "Ver proyectos", "href": "/proyectos" },
+    "image": "/placeholder/hero.jpg",
+    "pill": "Estudio boutique · Proyectos reales"
+  },
+  "whatWeDo": [
+    {
+      "title": "Interiorismo y decoración",
+      "description": "Ambientes serenos, materiales nobles y piezas a medida para viviendas que se viven de verdad.",
+      "image": "/placeholder/interior-1.jpg"
+    },
+    {
+      "title": "Jardines, terrazas y patios",
+      "description": "Terrazas que prolongan la casa: tarimas, iluminación, vegetación y agua para disfrutar todo el año.",
+      "image": "/placeholder/exterior-1.jpg"
+    },
+    {
+      "title": "Fabricación a medida",
+      "description": "Celosías, pérgolas, solados y mobiliario personalizado con maderas tecnológicas y acabados premium.",
+      "image": "/placeholder/custom-1.jpg"
+    }
+  ],
+  "services": [
+    {
+      "slug": "interiorismo-decoracion",
+      "title": "Interiorismo y decoración",
+      "summary": "Diseñamos viviendas cálidas con piezas a medida, iluminación envolvente y materiales nobles.",
+      "description": "Creamos espacios acogedores que reflejan tu forma de vivir. Seleccionamos materiales cálidos, textiles naturales y diseñamos mobiliario a medida para que cada rincón funcione y emocione.",
+      "idealFor": ["Reformas integrales o parciales", "Renovar salón, suite principal o zonas de día", "Quienes buscan una casa acogedora y funcional"],
+      "benefits": ["Diseño integral y visualizaciones", "Selección de mobiliario y arte", "Coordinación de obra y proveedores"],
+      "images": ["/placeholder/interior-1.jpg", "/placeholder/interior-2.jpg", "/placeholder/detail-1.jpg"]
+    },
+    {
+      "slug": "jardines-terrazas-patios",
+      "title": "Jardines, terrazas y patios",
+      "summary": "Exteriorismo que conecta con el interior: tarimas, vegetación, iluminación y agua.",
+      "description": "Transformamos terrazas y patios en estancias vividas: zonas de sombra, rincones verdes, iluminación cálida y materiales duraderos que resisten el exterior.",
+      "idealFor": ["Áticos y bajos con terraza", "Patios urbanos con falta de privacidad", "Quienes quieren disfrutar la terraza todo el año"],
+      "benefits": ["Diseño climático y de uso", "Vegetación y riego integrados", "Iluminación y sonido exterior"],
+      "images": ["/placeholder/exterior-1.jpg", "/placeholder/exterior-2.jpg", "/placeholder/pergola-1.jpg"]
+    },
+    {
+      "slug": "madera-tecnologica-celosias",
+      "title": "Madera tecnológica y celosías",
+      "summary": "Tarimas y celosías a medida con acabados premium y mantenimiento mínimo.",
+      "description": "Diseñamos tarimas, frentes y celosías que aportan calidez y privacidad. Trabajamos con maderas tecnológicas y soluciones a medida para cada fachada o terraza.",
+      "idealFor": ["Terrazas expuestas al sol", "Fachadas que necesitan privacidad", "Zonas de piscina y spa"],
+      "benefits": ["Materiales resistentes y antideslizantes", "Montaje limpio y preciso", "Integración de iluminación y jardinería"],
+      "images": ["/placeholder/pergola-2.jpg", "/placeholder/custom-2.jpg", "/placeholder/exterior-2.jpg"]
+    },
+    {
+      "slug": "pergolas-iluminacion-solados",
+      "title": "Pérgolas, iluminación exterior y solados",
+      "summary": "Estructuras ligeras, pavimentos y luz cálida para extender la vida exterior.",
+      "description": "Creamos pérgolas, solados y recorridos iluminados que amplían el uso de la casa al exterior. Diseñamos sombras, recogida de agua y atmósfera nocturna.",
+      "idealFor": ["Comedores exteriores y lounges", "Recorridos de jardín y piscinas", "Espacios que necesitan sombra y luz"],
+      "benefits": ["Diseño bioclimático", "Integración eléctrica segura", "Acabados continuos y drenaje resuelto"],
+      "images": ["/placeholder/pergola-1.jpg", "/placeholder/exterior-1.jpg", "/placeholder/detail-1.jpg"]
+    },
+    {
+      "slug": "diseno-fabricacion-medida",
+      "title": "Diseño y fabricación a medida",
+      "summary": "Piezas únicas: bancos corridos, barras, celosías, mobiliario exterior e interior.",
+      "description": "Fabricamos elementos a medida en madera, metal y piedra para completar el proyecto: bancos corridos, barras, jardineras, iluminación integrada y almacenamiento oculto.",
+      "idealFor": ["Quienes quieren un espacio único", "Hoteles boutique y hospitality", "Retail y showrooms cálidos"],
+      "benefits": ["Prototipado y muestras previas", "Instalación por nuestro equipo", "Mantenimiento y servicio postventa"],
+      "images": ["/placeholder/custom-1.jpg", "/placeholder/custom-2.jpg", "/placeholder/interior-2.jpg"]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "terraza-chamberi",
+      "title": "Terraza calma en Chamberí",
+      "location": "Madrid",
+      "category": "Terraza",
+      "tags": ["Exterior", "Iluminación", "Madera tecnológica"],
+      "cover": "/placeholder/exterior-1.jpg",
+      "images": ["/placeholder/exterior-1.jpg", "/placeholder/pergola-1.jpg", "/placeholder/detail-1.jpg"],
+      "summary": "Un ático que se abre con tarima cálida, celosías y luz indirecta para noches largas.",
+      "challenge": "Ganar privacidad y sombra sin perder luz natural.",
+      "solution": "Celosías ligeras, pérgola de lamas regulables e iluminación perimetral integrada.",
+      "materials": ["Madera tecnológica", "Lamas de aluminio", "Iluminación LED cálida"],
+      "timeline": "6 semanas"
+    },
+    {
+      "slug": "atico-salamanca",
+      "title": "Ático luminoso en Salamanca",
+      "location": "Madrid",
+      "category": "Interior",
+      "tags": ["Interiorismo", "Mobiliario a medida", "Iluminación"],
+      "cover": "/placeholder/interior-1.jpg",
+      "images": ["/placeholder/interior-1.jpg", "/placeholder/interior-2.jpg", "/placeholder/detail-1.jpg"],
+      "summary": "Texturas suaves, madera y líneas puras para una vivienda serena.",
+      "challenge": "Unificar espacios de día con almacenaje oculto.",
+      "solution": "Panelados de madera, mueble corrido y luminarias empotradas para unificar.",
+      "materials": ["Roble europeo", "Textil lino", "Iluminación lineal"],
+      "timeline": "8 semanas"
+    },
+    {
+      "slug": "patio-verde-justicia",
+      "title": "Patio verde en Justicia",
+      "location": "Madrid",
+      "category": "Patio",
+      "tags": ["Vegetación", "Agua", "Solados"],
+      "cover": "/placeholder/exterior-2.jpg",
+      "images": ["/placeholder/exterior-2.jpg", "/placeholder/pergola-2.jpg", "/placeholder/custom-2.jpg"],
+      "summary": "Un patio urbano convertido en oasis con vegetación y banco corrido.",
+      "challenge": "Pocos metros y necesidad de privacidad.",
+      "solution": "Celosías altas, jardineras con riego oculto y banco integrado.",
+      "materials": ["Celosías de madera", "Tarima exterior", "Iluminación de baja altura"],
+      "timeline": "5 semanas"
+    },
+    {
+      "slug": "piscina-la-moraleja",
+      "title": "Deck y pérgola en La Moraleja",
+      "location": "Madrid",
+      "category": "Jardín",
+      "tags": ["Pérgola", "Tarima", "Iluminación"],
+      "cover": "/placeholder/pergola-1.jpg",
+      "images": ["/placeholder/pergola-1.jpg", "/placeholder/exterior-1.jpg", "/placeholder/detail-1.jpg"],
+      "summary": "Deck amplio con zonas de sombra, ducha exterior y luz ambiental.",
+      "challenge": "Resolver desniveles y drenaje junto a la piscina.",
+      "solution": "Estructura ventilada, solado antideslizante e iluminación integrada en peldaños.",
+      "materials": ["Tarima tecnológica", "Aluminio lacado", "Iluminación IP67"],
+      "timeline": "7 semanas"
+    },
+    {
+      "slug": "cocina-abierta-arganzuela",
+      "title": "Cocina y salón en Arganzuela",
+      "location": "Madrid",
+      "category": "Interior",
+      "tags": ["Cocina", "Iluminación", "Mueble a medida"],
+      "cover": "/placeholder/custom-1.jpg",
+      "images": ["/placeholder/custom-1.jpg", "/placeholder/interior-2.jpg", "/placeholder/detail-1.jpg"],
+      "summary": "Unir cocina y salón con acabados cálidos y barra a medida.",
+      "challenge": "Integrar almacenaje y electrodomésticos sin ruido visual.",
+      "solution": "Frentes panelados, barra de madera maciza y luz regulable por escenas.",
+      "materials": ["Nogal", "Piedra sinterizada", "Iluminación regulable"],
+      "timeline": "9 semanas"
+    },
+    {
+      "slug": "terraza-rosales",
+      "title": "Terraza terraza en Rosales",
+      "location": "Madrid",
+      "category": "Terraza",
+      "tags": ["Celosías", "Iluminación", "Jardinería"],
+      "cover": "/placeholder/custom-2.jpg",
+      "images": ["/placeholder/custom-2.jpg", "/placeholder/exterior-2.jpg", "/placeholder/pergola-2.jpg"],
+      "summary": "Un refugio exterior con celosías de privacidad y jardineras aromáticas.",
+      "challenge": "Proteger del viento y generar zonas de estar diferenciadas.",
+      "solution": "Celosías moduladas, bancos corridos y luz puntual cálida.",
+      "materials": ["Madera de iroko", "Perfilería lacada", "Iluminación LED cálida"],
+      "timeline": "6 semanas"
+    }
+  ],
+  "projectFilters": ["Todos", "Interior", "Terraza", "Jardín", "Patio", "Iluminación"],
+  "process": [
+    { "title": "Brief y visita", "description": "Escuchamos necesidades, medimos y entendemos cómo vives el espacio." },
+    { "title": "Propuesta y visualización", "description": "Moodboards, planos y materiales para que veas el resultado antes de empezar." },
+    { "title": "Ejecución y fabricación", "description": "Coordinamos obra, fabricantes e instaladores propios para cumplir tiempos." },
+    { "title": "Entrega y cuidado", "description": "Puesta en escena, iluminación y mantenimiento para que todo siga perfecto." }
+  ],
+  "testimonials": [
+    {
+      "name": "Marina & Álvaro",
+      "location": "Madrid",
+      "quote": "La terraza se ha convertido en nuestro salón de verano. Detalles cálidos, luz perfecta y un trato impecable.",
+      "projectType": "Terraza y celosías"
+    },
+    {
+      "name": "Lucía P.",
+      "location": "Pozuelo",
+      "quote": "Nos ayudaron a visualizar la casa con renders y muestras. La ejecución fue limpia y el resultado, muy premium.",
+      "projectType": "Interiorismo vivienda"
+    },
+    {
+      "name": "Carlos G.",
+      "location": "Chamberí",
+      "quote": "Resolvieron privacidad y sombra con una pérgola ligera y vegetación integrada. Ya no parece la misma terraza.",
+      "projectType": "Pérgola e iluminación"
+    },
+    {
+      "name": "Natalia & Jean",
+      "location": "La Moraleja",
+      "quote": "La coordinación fue impecable. Bancos, iluminación y tarima a medida. Lo viviríamos otra vez.",
+      "projectType": "Jardín y tarima"
+    }
+  ],
+  "cta": {
+    "title": "Cuéntanos tu proyecto",
+    "description": "Concertamos una visita, tomamos medidas y preparamos una propuesta visual sin compromiso.",
+    "primary": { "label": "Pedir visita", "href": "/contacto" },
+    "secondary": { "label": "Hablar por WhatsApp", "href": "https://wa.me/34600000000" }
+  },
+  "contact": {
+    "heading": "Contacto y visitas",
+    "description": "Agenda una visita o envíanos fotos y medidas. Respondemos en menos de 24h.",
+    "emailLabel": "hola@azentohome.com",
+    "phoneLabel": "+34 600 000 000",
+    "hours": "Lunes a viernes · 9:00 - 19:00",
+    "areas": "Madrid y alrededores",
+    "consentLabel": "Acepto el tratamiento de mis datos para responder a mi solicitud.",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.6744799859317!2d-3.7037906846046843!3d40.416775979364896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4228c6ec934f91%3A0xabadf3e7cb3de89a!2sMadrid!5e0!3m2!1sen!2ses!4v1616589123456!5m2!1sen!2ses"
+  },
+  "about": {
+    "headline": "Diseñamos y fabricamos a medida, sin renunciar al estilo",
+    "story": "AZento Home nace de la unión entre interiorismo y fabricación propia. Trabajamos madera, metal y piedra para crear espacios coherentes dentro y fuera de casa.",
+    "values": [
+      { "title": "Trato cercano", "description": "Un único equipo acompaña el proyecto de principio a fin." },
+      { "title": "A medida", "description": "Diseñamos pensando en cómo usas cada espacio." },
+      { "title": "Visualización previa", "description": "Moodboards, renders y muestras antes de ejecutar." },
+      { "title": "Fabricación propia", "description": "Talleres y red de instaladores para cumplir tiempos." }
+    ],
+    "team": [
+      { "name": "Andrea", "role": "Interiorismo y dirección creativa", "image": "/placeholder/team-1.jpg" },
+      { "name": "Sergio", "role": "Proyectos exteriores y fabricación", "image": "/placeholder/team-2.jpg" }
+    ]
+  },
+  "instagram": {
+    "heading": "Síguenos en Instagram",
+    "description": "Inspiración diaria, avances de obra y detalles de proyectos reales.",
+    "handle": "@azentohome",
+    "link": "https://www.instagram.com/azentohome",
+    "images": [
+      "/placeholder/instagram-1.jpg",
+      "/placeholder/instagram-2.jpg",
+      "/placeholder/instagram-3.jpg",
+      "/placeholder/instagram-4.jpg",
+      "/placeholder/instagram-5.jpg",
+      "/placeholder/instagram-6.jpg"
+    ]
+  },
+  "footer": {
+    "miniDescription": "Interiorismo, exteriorismo y fabricación a medida con materiales nobles y luz cálida.",
+    "legal": ["Aviso legal (placeholder)", "Política de privacidad (placeholder)"],
+    "ctaText": "Agenda una visita para ver cómo podemos transformar tu casa."
+  }
+}

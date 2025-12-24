@@ -1,0 +1,8 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AZento Home</title>
+  <desc id="desc">Wordmark placeholder</desc>
+  <rect width="320" height="80" fill="#f7f3ec"/>
+  <rect x="16" y="22" width="44" height="36" rx="2" fill="#1a1814"/>
+  <text x="70" y="48" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#1a1814">AZento Home</text>
+  <text x="70" y="65" font-family="Inter, Arial, sans-serif" font-size="11" fill="#5a5046" letter-spacing="2">INTERIOR · EXTERIOR</text>
+</svg>
